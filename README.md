@@ -20,5 +20,5 @@ Entry-level:
 - Operations Analyst roles
 
 ## Contact
-LinkedIn: (your linkedin)
+LinkedIn: www.linkedin.com/in/daniel-lai25
 Email: laidaniel1225@gmail.com
