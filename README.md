@@ -1,3 +1,5 @@
+
+<img width="2172" height="724" alt="ChatGPT Image 2026年5月15日 下午02_22_36" src="https://github.com/user-attachments/assets/465090b2-76df-460b-a438-310753beb76d" />
 # Hi, I'm Daniel Lai 👋
 
 Data Science graduate from UC Berkeley with hands-on experience in data analysis, machine learning, and statistical modeling.
@@ -44,6 +46,3 @@ Entry-level opportunities in:
 - Email: laidaniel1225@gmail.com
 
 
-
-![Banner](images/banner.png)
-<img width="2172" height="724" alt="ChatGPT Image 2026年5月15日 下午02_22_36" src="https://github.com/user-attachments/assets/465090b2-76df-460b-a438-310753beb76d" />
